@@ -1,0 +1,5 @@
+# Excludează fișierele temporare și directoarele de build
+*.log
+*.tmp
+/node_modules/
+/build/
